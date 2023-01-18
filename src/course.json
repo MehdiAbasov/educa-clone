@@ -1,0 +1,74 @@
+[ 
+    { 
+       "id": 1, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/course-7_jpww8v.jpg", 
+       "imgnd":"https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/teacher-2_mcxgvy.jpg", 
+       "name": "Andrew Boris", 
+       "price": "$109.99", 
+       "text": "How to become a Powerfull Speaker" 
+    }, 
+    { 
+       "id": 2, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/course-6_ycitqp.jpg", 
+       "imgnd":"https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/teacher-4_ex67do.jpg", 
+       "name": "Allan Waskovski", 
+       "price": "$49.99", 
+       "text": "Electrical & Electronical Engineering" 
+    }, 
+    { 
+       "id": 3, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/course-3_dbokat.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/teacher-12_zbch8j.jpg", 
+       "name": "Kate Moss", 
+       "price": "$39.99", 
+       "text": "What Can You Do With Business Degree" 
+    }, 
+    { 
+       "id": 4, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/course-7_jpww8v.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/teacher-7_cynmw6.jpg", 
+       "name": "Adele Kane", 
+       "price": "$75.99", 
+       "text": "Fashion Buying and Product Management" 
+    }, 
+    { 
+       "id": 5, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745520/course-9_vtggez.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/teacher-4_lzxf2v.jpg", 
+       "name": "Ernest Byrd", 
+       "price": "$37.99", 
+       "text": "Software development and It support" 
+    }, 
+    { 
+       "id": 6, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/course-6_gpkh1v.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/teacher-2_mcxgvy.jpg", 
+       "name": "Laura Marano", 
+       "price": "$63.99", 
+       "text": "ux ui designer and developer associate" 
+    }, 
+    { 
+       "id": 7, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/course-8_jchxbf.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/teacher-7_nyksqp.jpg", 
+       "name": "Jack Douson", 
+       "price": "$89.99", 
+       "text": "sales manager and sales executive" 
+    }, 
+    { 
+       "id": 8, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662791586/course-6_gpkh1v.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/teacher-12_vbizfy.jpg", 
+       "name": "Vanessa Hacens", 
+       "price": "$49.99", 
+       "text": "business development manager and sales" 
+    }, 
+    { 
+       "id": 9, 
+       "image": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745520/course-9_vtggez.jpg", 
+       "imgnd": "https://res.cloudinary.com/veyseloglu/image/upload/v1662745519/teacher-7_cynmw6.jpg", 
+       "name": "John Lewis", 
+       "price": "$77.99", 
+       "text": "investing and financing decisions" 
+    } 
+ ]

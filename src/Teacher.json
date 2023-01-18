@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher1_ewd3ry.jpg",
+        "name": "NICK SMITH",
+        "job": "Designer, Teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher2_hvhkqn.jpg",
+        "name": "JOHN ROSADO",
+        "job": "Programmer, Teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher3_e4k5iv.jpg",
+        "name": "MARIA LEHMAN",
+        "job": "Teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher4_evctog.jpg",
+        "name": "SAMUEL DELOSSANTOS",
+        "job": "programmer, teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 5,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759675/teacherimg/teacher-9_ljouhy.jpg",
+        "name": "JOHN ROSADO",
+        "job": "Designer, Teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759666/teacherimg/teacher-10_ad1rgf.jpg",
+        "name": "NICK SMITH",
+        "job": "Math teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 7,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759659/teacherimg/teacher-1_vlv6wt.jpg",
+        "name": "NICK SMITH",
+        "job": "English teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 8,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759649/teacherimg/teacher-8_ngnpuq.jpg",
+        "name": "NICK SMITH",
+        "job": "teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 9,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher1_ewd3ry.jpg",
+        "name": "SAMUEL DELOSSANTOS",
+        "job": "programmer, teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 10,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759675/teacherimg/teacher-9_ljouhy.jpg",
+        "name": "JOHN ROSADO",
+        "job": "Designer, Teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 11,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663600439/teacherimg/teacher4_evctog.jpg",
+        "name": "samuel SMITH",
+        "job": " teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    },
+    {
+        "id": 12,
+        "image": "https://res.cloudinary.com/mehdi-abasov-official/image/upload/v1663759659/teacherimg/teacher-1_vlv6wt.jpg",
+        "name": "NICK SMITH",
+        "job": "English teacher",
+        "about": "Ugh chambray lumbersexual food artisan meditation sartorial well post-ironic wes"
+    }
+]
